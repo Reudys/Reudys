@@ -21,7 +21,5 @@
 ![Static Badge](https://img.shields.io/badge/%E2%80%8EGitHub-black?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/VS_code-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Visual_Studio-purple?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Net_Beans-blackgreen?style=for-the-badge&logo=apachenetbeanside&logoColor=black)
-
 
 
