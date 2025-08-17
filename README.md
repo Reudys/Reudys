@@ -13,7 +13,8 @@
 ![Static Badge](https://img.shields.io/badge/‎C%23-blue?style=for-the-badge&logo=sharp&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/.Net-purple?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Sql-gray?style=for-the-badge&logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/%E2%80%8EOralce-red?style=for-the-badge&logo=oracle)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 ### **DevTools**
 
